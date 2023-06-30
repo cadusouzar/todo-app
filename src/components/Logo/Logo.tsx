@@ -1,0 +1,1 @@
+export const Logo: React.FC = () => <img src="Logo.svg" width="228" height="56" alt="LOGOApp"/>
